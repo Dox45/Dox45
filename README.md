@@ -1,16 +1,48 @@
-## Hi there 👋
+# Dox45
 
-<!--
-**Dox45/Dox45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research Scientist · AI Engineer · Computational Biologist
 
-Here are some ideas to get you started:
+Intelligence Must Advance!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **multimodal AI, scientific machine learning, representation learning, and efficient AI systems.**
+
+---
+
+### 🧠 Interests
+
+`Artificial Intelligence` · `Computer Vision` · `Computational Biology` · `LLMs` · `Scientific ML` · `Optimization`
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,linux,docker,git,cmake,kotlin,vulkan" />
+</p>
+
+---
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dox45&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dox45&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dox45&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dox45&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Understand. Experiment. Repeat.</i>
+</p>
